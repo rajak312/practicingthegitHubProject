@@ -9,3 +9,6 @@ public class NextVersionClass {
 	}
 
 }
+
+
+//checking the release version
